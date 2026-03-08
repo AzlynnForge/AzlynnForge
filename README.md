@@ -1,16 +1,18 @@
-## Hi there 👋
+# AzlynnForge
 
-<!--
-**AzlynnForge/AzlynnForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game addons, mods, and small developer tools.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Boaring Challenge Addon**
+  Turtle WoW addon for tracking progress in the Boaring Challenge.
+
+## Interests
+
+- World of Warcraft addons
+- Automation games (Factorio, DSP)
+- Small dev utilities
+
+## Links
+
+GitHub: https://github.com/AzlynnForge
